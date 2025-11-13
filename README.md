@@ -1,4 +1,4 @@
-Todo List app - A simple and responsive To-Do List application built with React/Next.js and Tailwind CSS.
+Todo List app - A simple and responsive todo-app application built with React/Next.js and Tailwind CSS.
 
 How to run the project:
 1.	Clone the repository
