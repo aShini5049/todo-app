@@ -12,7 +12,9 @@ npm run dev
 Features:
 -	Add new tasks
 -	Mark tasks as completed
--	Delete tasks
+-	Delete tasks\
+-	Filter tasks by status: All, Completed, Pending
+-	Tasks persist using localStorage, so data is saved even after page reload
 -	Responsive layout using Tailwind CSS
 
 Technologies
